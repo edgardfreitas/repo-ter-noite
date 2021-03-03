@@ -1,3 +1,3 @@
 <script type="text/javascript">
-    alert("Sei lá!!!!");
+    alert("Sei lá!!!");
 </script>
